@@ -3,6 +3,7 @@ export const subjectData1 = [
   { sbj: "Xitsonga HL" },
   { sbj: "Mathematics " },
   { sbj: "Physical Science " },
+  { sbj: "Life Science" },
   { sbj: "History" },
   { sbj: "Life Orientation" },
   { sdj: "Religion studies" },
