@@ -6,7 +6,6 @@ export const subjectData1 = [
   { sbj: "Life Science" },
   { sbj: "History" },
   { sbj: "Life Orientation" },
-  { sdj: "Religion studies" },
 ];
 
 export const subjectData2 = [
